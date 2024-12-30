@@ -1,0 +1,5 @@
+seaborn == 0.13.2
+scanpy == 1.10.3
+numpy == 1.26.3
+torch == 1.13.0
+annoy == 1.17.3
