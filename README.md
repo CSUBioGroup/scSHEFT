@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 
 # Demo
-- **demo_data**: [T-cell bone marrow](https://drive.google.com/drive/quota)
+- **demo_data**: [T-cell bone marrow](https://drive.google.com/drive/quota) \
 Make sure data and code is availavle for running.  \
 The **default parameters** are set within the script demo_bm.py, and can be executed with the command:
 ```
